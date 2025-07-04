@@ -17,9 +17,9 @@
 
 8. git status - (check the status of the repository)
 
-9. git checkout develop - (switch to the 'develop' branch)
-
-10. git status - (check the status of the repository again)
+9. git checkout develop - (switch to the 'develop' branch) --------
+                                                                    ------- git checkout -b develop - (alternative command to switch to the 'develop' branch) 
+10. git status - (check the status of the repository again) -------
 
 11. git add . - (stage all changes for commit in the 'develop' branch)
 
@@ -38,3 +38,17 @@
 -----------------------------------------------------------------------------------------------------------------
 
 17. npm init -y - (initialize a new Node.js project with default settings)
+
+-----------------------------------------------------------------------------------------------------------------
+
+18. npm i express - (install the Express.js package)
+
+19. npm i dotenv - (install the dotenv package)
+
+20. npm i cors - (install the cors package)
+
+-----------------------------------------------------------------------------------------------------------------
+
+21. npm install --save sequelize - (install the Sequelize package)
+
+22. npm install --save pg pg-hstore # Postgres - (install the Postgres package)
