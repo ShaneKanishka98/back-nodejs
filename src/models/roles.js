@@ -1,0 +1,1 @@
+// using sequelize to define roles
