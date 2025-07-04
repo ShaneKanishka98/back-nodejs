@@ -18,3 +18,23 @@
 8. git status - (check the status of the repository)
 
 9. git checkout develop - (switch to the 'develop' branch)
+
+10. git status - (check the status of the repository again)
+
+11. git add . - (stage all changes for commit in the 'develop' branch)
+
+12. git commit -m "Initial commit in develop branch" - (commit the staged changes with a message)
+
+13. git push origin develop - (push the 'develop' branch to the remote repository)
+
+-----------------------------------------------------------------------------------------------------------------
+
+14. git branch feature/folder-structure- (create a new branch named 'feature/folder-structure')
+
+15. git checkout feature/folder-structure - (switch to the 'feature/folder-structure' branch)
+
+16. git status - (check the status of the repository)
+
+-----------------------------------------------------------------------------------------------------------------
+
+17. npm init -y - (initialize a new Node.js project with default settings)
