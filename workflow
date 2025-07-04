@@ -38,3 +38,11 @@
 -----------------------------------------------------------------------------------------------------------------
 
 17. npm init -y - (initialize a new Node.js project with default settings)
+
+-----------------------------------------------------------------------------------------------------------------
+
+18. npm i express - (install the Express.js package)
+
+19. npm i dotenv - (install the dotenv package)
+
+20. npm i cors - (install the cors package)

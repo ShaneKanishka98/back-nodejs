@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/ShaneKanishka98/back-nodejs/issues"
   },
-  "homepage": "https://github.com/ShaneKanishka98/back-nodejs#readme"
+  "homepage": "https://github.com/ShaneKanishka98/back-nodejs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
 }
